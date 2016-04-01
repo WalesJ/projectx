@@ -2,7 +2,11 @@
 
 The most secret and important project in the world.
 
+<<<<<<< HEAD
 Made by: Jesse L. Wales
+=======
+Made by: Jesse W.
+>>>>>>> testing
 
 ## How to use
 
