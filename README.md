@@ -9,6 +9,13 @@ Made by: Jesse Wales
 1. Install
 2. Use
 
+## Example
+
+...
+print 'hello, world'
+...
+
 ## License
 
 BSD
+
