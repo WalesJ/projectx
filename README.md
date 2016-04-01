@@ -2,7 +2,7 @@
 
 The most secret and important project in the world.
 
-Made by: Jesse Wales
+Made by: Jesse L. Wales
 
 ## How to use
 
